@@ -1,0 +1,586 @@
+State,District,Best Crop
+Andaman and Nicobar,Andaman Islands,Coconut
+Andaman and Nicobar,Nicobar Islands,Coconut
+Andhra Pradesh,Srikakulam,Rice
+Andhra Pradesh,Vishakhapatnam,Rice
+Andhra Pradesh,Vizianagaram,Rice
+Andhra Pradesh,Warangal,Maize
+Andhra Pradesh,West Godavari,Rice
+Andhra Pradesh,East Godavari,Rice
+Andhra Pradesh,Guntur,Cotton
+Andhra Pradesh,Krishna,Rice
+Andhra Pradesh,Nellore,Rice
+Andhra Pradesh,Prakasam,Cotton
+Andhra Pradesh,Adilabad,Cotton
+Andhra Pradesh,Anantapur,Groundnut
+Andhra Pradesh,Chittoor,Mango
+Andhra Pradesh,Cuddapah,Banana
+Andhra Pradesh,Hyderabad,Maize
+Andhra Pradesh,Karimnagar,Maize
+Andhra Pradesh,Khammam,Maize
+Andhra Pradesh,Kurnool,Groundnut
+Andhra Pradesh,Mahbubnagar,Maize
+Andhra Pradesh,Medak,Maize
+Andhra Pradesh,Nalgonda,Maize
+Andhra Pradesh,Nizamabad,Maize
+Andhra Pradesh,Rangareddi,Maize
+Arunachal Pradesh,Changlang,Rice
+Arunachal Pradesh,East Kameng,Rice
+Arunachal Pradesh,East Siang,Rice
+Arunachal Pradesh,Kurung Kumey,Rice
+Arunachal Pradesh,Lohit,Rice
+Arunachal Pradesh,Lower Dibang Valley,Rice
+Arunachal Pradesh,Lower Subansiri,Rice
+Arunachal Pradesh,Papum Pare,Rice
+Arunachal Pradesh,Tawang,Maize
+Arunachal Pradesh,Tirap,Rice
+Arunachal Pradesh,Upper Dibang Valley,Rice
+Arunachal Pradesh,Upper Siang,Rice
+Arunachal Pradesh,Upper Subansiri,Rice
+Arunachal Pradesh,West Kameng,Maize
+Arunachal Pradesh,West Siang,Rice
+Assam,Barpeta,Rice
+Assam,Bongaigaon,Rice
+Assam,Cachar,Rice
+Assam,Darrang,Rice
+Assam,Dhemaji,Rice
+Assam,Dhuburi,Rice
+Assam,Dibrugarh,Tea
+Assam,Goalpara,Rice
+Assam,Golaghat,Tea
+Assam,Hailakandi,Rice
+Assam,Jorhat,Tea
+Assam,Kamrup,Rice
+Assam,Karbi Anglong,Rice
+Assam,Karimganj,Rice
+Assam,Kokrajhar,Rice
+Assam,Lakhimpur,Rice
+Assam,Marigaon,Rice
+Assam,Nagaon,Rice
+Assam,Nalbari,Rice
+Assam,North Cachar Hills,Rice
+Assam,Sibsagar,Tea
+Assam,Sonitpur,Tea
+Assam,Tinsukia,Tea
+Bihar,Araria,Rice
+Bihar,Aurangabad,Maize
+Bihar,Banka,Maize
+Bihar,Begusarai,Rice
+Bihar,Bhabua,Maize
+Bihar,Bhagalpur,Rice
+Bihar,Bhojpur,Maize
+Bihar,Buxar,Maize
+Bihar,Darbhanga,Rice
+Bihar,Gaya,Maize
+Bihar,Gopalganj,Rice
+Bihar,Jamui,Maize
+Bihar,Jehanabad,Maize
+Bihar,Katihar,Rice
+Bihar,Khagaria,Rice
+Bihar,Kishanganj,Rice
+Bihar,Lakhisarai,Maize
+Bihar,Madhepura,Rice
+Bihar,Madhubani,Rice
+Bihar,Munger,Maize
+Bihar,Muzaffarpur,Rice
+Bihar,Nalanda,Maize
+Bihar,Nawada,Maize
+Bihar,Pashchim Champaran,Rice
+Bihar,Patna,Maize
+Bihar,Purba Champaran,Rice
+Bihar,Purnia,Rice
+Bihar,Rohtas,Maize
+Bihar,Saharsa,Rice
+Bihar,Samastipur,Rice
+Bihar,Saran,Rice
+Bihar,Sheikhpura,Maize
+Bihar,Sheohar,Rice
+Bihar,Sitamarhi,Rice
+Bihar,Siwan,Rice
+Bihar,Supaul,Rice
+Bihar,Vaishali,Rice
+Chandigarh,Chandigarh,Maize
+Chhattisgarh,Bastar,Rice
+Chhattisgarh,Bilaspur,Rice
+Chhattisgarh,Dantewada,Rice
+Chhattisgarh,Dhamtari,Rice
+Chhattisgarh,Durg,Rice
+Chhattisgarh,Janjgir-Champa,Rice
+Chhattisgarh,Jashpur,Rice
+Chhattisgarh,Kanker,Rice
+Chhattisgarh,Kawardha,Rice
+Chhattisgarh,Korba,Rice
+Chhattisgarh,Koriya,Rice
+Chhattisgarh,Mahasamund,Rice
+Chhattisgarh,Raigarh,Rice
+Chhattisgarh,Raj Nandgaon,Rice
+Chhattisgarh,Raipur,Rice
+Chhattisgarh,Surguja,Rice
+Dadra and Nagar Haveli,Dadra and Nagar Haveli,Rice
+Daman and Diu,Daman,Rice
+Delhi,Delhi,Maize
+Goa,North Goa,Rice
+Goa,South Goa,Rice
+Gujarat,Ahmadabad,Cotton
+Gujarat,Amreli,Cotton
+Gujarat,Anand,Cotton
+Gujarat,Banas Kantha,Cotton
+Gujarat,Bharuch,Cotton
+Gujarat,Bhavnagar,Cotton
+Gujarat,Dahod,Maize
+Gujarat,Gandhinagar,Cotton
+Gujarat,Jamnagar,Cotton
+Gujarat,Junagadh,Cotton
+Gujarat,Kachchh,Cotton
+Gujarat,Kheda,Cotton
+Gujarat,Mahesana,Cotton
+Gujarat,Narmada,Cotton
+Gujarat,Navsari,Banana
+Gujarat,Panch Mahals,Maize
+Gujarat,Patan,Cotton
+Gujarat,Porbandar,Cotton
+Gujarat,Rajkot,Cotton
+Gujarat,Sabar Kantha,Cotton
+Gujarat,Surat,Cotton
+Gujarat,Surendranagar,Cotton
+Gujarat,The Dangs,Banana
+Gujarat,Vadodara,Cotton
+Gujarat,Valsad,Banana
+Haryana,Ambala,Wheat
+Haryana,Bhiwani,Wheat
+Haryana,Faridabad,Wheat
+Haryana,Fatehabad,Wheat
+Haryana,Gurgaon,Wheat
+Haryana,Hisar,Wheat
+Haryana,Jhajjar,Wheat
+Haryana,Jind,Wheat
+Haryana,Kaithal,Wheat
+Haryana,Karnal,Wheat
+Haryana,Kurukshetra,Wheat
+Haryana,Mahendragarh,Wheat
+Haryana,Panchkula,Wheat
+Haryana,Panipat,Wheat
+Haryana,Rewari,Wheat
+Haryana,Rohtak,Wheat
+Haryana,Sirsa,Wheat
+Haryana,Sonepat,Wheat
+Haryana,Yamuna Nagar,Wheat
+Himachal Pradesh,Chamba,Apple
+Himachal Pradesh,Hamirpur,Maize
+Himachal Pradesh,Kangra,Maize
+Himachal Pradesh,Kinnaur,Apple
+Himachal Pradesh,Kullu,Apple
+Himachal Pradesh,Lahul and Spiti,Apple
+Himachal Pradesh,Mandi,Apple
+Himachal Pradesh,Shimla,Apple
+Himachal Pradesh,Sirmaur,Apple
+Himachal Pradesh,Solan,Apple
+Himachal Pradesh,Una,Maize
+Jammu and Kashmir,Anantnag (Kashmir South),Apple
+Jammu and Kashmir,Bagdam,Apple
+Jammu and Kashmir,Baramula (Kashmir North),Apple
+Jammu and Kashmir,Doda,Apple
+Jammu and Kashmir,Jammu,Maize
+Jammu and Kashmir,Kargil,Apple
+Jammu and Kashmir,Kathua,Maize
+Jammu and Kashmir,Kupwara (Muzaffarabad),Apple
+Jammu and Kashmir,Ladakh (Leh),Apple
+Jammu and Kashmir,Pulwama,Apple
+Jammu and Kashmir,Punch,Apple
+Jammu and Kashmir,Rajauri,Maize
+Jammu and Kashmir,Srinagar,Apple
+Jammu and Kashmir,Udhampur,Apple
+Jharkhand,Bokaro,Maize
+Jharkhand,Chatra,Maize
+Jharkhand,Deoghar,Maize
+Jharkhand,Dhanbad,Maize
+Jharkhand,Dumka,Maize
+Jharkhand,Garhwa,Maize
+Jharkhand,Godda,Maize
+Jharkhand,Gumla,Maize
+Jharkhand,Hazaribag,Maize
+Jharkhand,Jamtara,Maize
+Jharkhand,Koderma,Maize
+Jharkhand,Latehar,Maize
+Jharkhand,Lohardaga,Maize
+Jharkhand,Pakur,Maize
+Jharkhand,Palamu,Maize
+Jharkhand,Pashchim Singhbhum,Maize
+Jharkhand,Purba Singhbhum,Maize
+Jharkhand,Ranchi,Maize
+Jharkhand,Sahibganj,Maize
+Jharkhand,Saraikela Kharsawan,Maize
+Jharkhand,Simdega,Maize
+Karnataka,Bagalkot,Maize
+Karnataka,Bangalore Rural,Maize
+Karnataka,Bangalore Urban,Maize
+Karnataka,Belgaum,Maize
+Karnataka,Bellary,Maize
+Karnataka,Bidar,Maize
+Karnataka,Bijapur,Maize
+Karnataka,Chamrajnagar,Maize
+Karnataka,Chikmagalur,Coffee
+Karnataka,Chitradurga,Maize
+Karnataka,Dakshin Kannad,Coffee
+Karnataka,Davanagere,Maize
+Karnataka,Dharwad,Maize
+Karnataka,Gadag,Maize
+Karnataka,Gulbarga,Maize
+Karnataka,Hassan,Coffee
+Karnataka,Haveri,Maize
+Karnataka,Kodagu,Coffee
+Karnataka,Kolar,Maize
+Karnataka,Koppal,Maize
+Karnataka,Mandya,Sugarcane
+Karnataka,Mysore,Sugarcane
+Karnataka,Raichur,Maize
+Karnataka,Shimoga,Coffee
+Karnataka,Tumkur,Maize
+Karnataka,Udupi,Coffee
+Karnataka,Uttar Kannand,Coffee
+Kerala,Alappuzha,Coconut
+Kerala,Ernakulam,Coconut
+Kerala,Idukki,Coffee
+Kerala,Kannur,Coconut
+Kerala,Kasaragod,Coconut
+Kerala,Kollam,Coconut
+Kerala,Kottayam,Coconut
+Kerala,Kozhikode,Coconut
+Kerala,Malappuram,Coconut
+Kerala,Palakkad,Coconut
+Kerala,Pattanamtitta,Coconut
+Kerala,Thiruvananthapuram,Coconut
+Kerala,Thrissur,Coconut
+Kerala,Wayanad,Coffee
+Lakshadweep,Kavaratti,Coconut
+Madhya Pradesh,Anuppur,Maize
+Madhya Pradesh,Ashoknagar,Chickpea
+Madhya Pradesh,Balaghat,Rice
+Madhya Pradesh,Barwani,Maize
+Madhya Pradesh,Betul,Maize
+Madhya Pradesh,Bhind,Chickpea
+Madhya Pradesh,Bhopal,Chickpea
+Madhya Pradesh,Burhanpur,Maize
+Madhya Pradesh,Chhatarpur,Chickpea
+Madhya Pradesh,Chhindwara,Maize
+Madhya Pradesh,Damoh,Chickpea
+Madhya Pradesh,Datia,Chickpea
+Madhya Pradesh,Dewas,Chickpea
+Madhya Pradesh,Dhar,Maize
+Madhya Pradesh,Dindori,Maize
+Madhya Pradesh,East Nimar,Maize
+Madhya Pradesh,Guna,Chickpea
+Madhya Pradesh,Gwalior,Chickpea
+Madhya Pradesh,Harda,Maize
+Madhya Pradesh,Hoshangabad,Maize
+Madhya Pradesh,Indore,Chickpea
+Madhya Pradesh,Jabalpur,Chickpea
+Madhya Pradesh,Jhabua,Maize
+Madhya Pradesh,Katni,Maize
+Madhya Pradesh,Mandla,Maize
+Madhya Pradesh,Mandsaur,Chickpea
+Madhya Pradesh,Morena,Chickpea
+Madhya Pradesh,Narsinghpur,Maize
+Madhya Pradesh,Neemuch,Chickpea
+Madhya Pradesh,Panna,Chickpea
+Madhya Pradesh,Raisen,Chickpea
+Madhya Pradesh,Rajgarh,Chickpea
+Madhya Pradesh,Ratlam,Chickpea
+Madhya Pradesh,Rewa,Chickpea
+Madhya Pradesh,Sagar,Chickpea
+Madhya Pradesh,Satna,Chickpea
+Madhya Pradesh,Sehore,Chickpea
+Madhya Pradesh,Seoni,Maize
+Madhya Pradesh,Shahdol,Maize
+Madhya Pradesh,Shajapur,Chickpea
+Madhya Pradesh,Sheopur,Chickpea
+Madhya Pradesh,Shivpuri,Chickpea
+Madhya Pradesh,Sidhi,Maize
+Madhya Pradesh,Tikamgarh,Chickpea
+Madhya Pradesh,Ujjain,Chickpea
+Madmaya Pradesh,Umaria,Maize
+Madhya Pradesh,Vidisha,Chickpea
+Madhya Pradesh,West Nimar,Maize
+Maharashtra,Ahmednagar,Cotton
+Maharashtra,Akola,Cotton
+Maharashtra,Amravati,Cotton
+Maharashtra,Bhandara,Rice
+Maharashtra,Bid,Cotton
+Maharashtra,Buldana,Cotton
+Maharashtra,Chandrapur,Cotton
+Maharashtra,Dhule,Cotton
+Maharashtra,Garhchiroli,Rice
+Maharashtra,Gondiya,Rice
+Maharashtra,Greater Bombay,Grapes
+Maharashtra,Hingoli,Cotton
+Maharashtra,Jalgaon,Banana
+Maharashtra,Jalna,Cotton
+Maharashtra,Kolhapur,Sugarcane
+Maharashtra,Latur,Cotton
+Maharashtra,Nagpur,Cotton
+Maharashtra,Nanded,Cotton
+Maharashtra,Nandurbar,Cotton
+Maharashtra,Nashik,Grapes
+Maharashtra,Osmanabad,Cotton
+Maharashtra,Parbhani,Cotton
+Maharashtra,Pune,Sugarcane
+Maharashtra,Ratnagiri,Mango
+Maharashtra,Sangli,Grapes
+Maharashtra,Satara,Sugarcane
+Maharashtra,Sindhudurg,Mango
+Maharashtra,Solapur,Cotton
+Maharashtra,Thane,Mango
+Maharashtra,Wardha,Cotton
+Maharashtra,Washim,Cotton
+Maharashtra,Yavatmal,Cotton
+Manipur,Bishnupur,Rice
+Manipur,Chandel,Rice
+Manipur,Churachandpur,Rice
+Manipur,East Imphal,Rice
+Manipur,Senapati,Rice
+Manipur,Tamenglong,Rice
+Manipur,Thoubal,Rice
+Manipur,Ukhrul,Rice
+Manipur,West Imphal,Rice
+Meghalaya,East Garo Hills,Rice
+Meghalaya,East Khasi Hills,Rice
+Meghalaya,Jaintia Hills,Rice
+Meghalaya,Ri-Bhoi,Rice
+Meghalaya,South Garo Hills,Rice
+Meghalaya,West Garo Hills,Rice
+Meghalaya,West Khasi Hills,Rice
+Mizoram,Aizawl,Rice
+Mizoram,Champhai,Rice
+Mizoram,Kolasib,Rice
+Mizoram,Lawngtlai,Rice
+Mizoram,Lunglei,Rice
+Mizoram,Mamit,Rice
+Mizoram,Saiha,Rice
+Mizoram,Serchhip,Rice
+Nagaland,Dimapur,Rice
+Nagaland,Kohima,Rice
+Nagaland,Mokokchung,Rice
+Nagaland,Mon,Rice
+Nagaland,Phek,Rice
+Nagaland,Tuensang,Rice
+Nagaland,Wokha,Rice
+Nagaland,Zunheboto,Rice
+Orissa,Angul,Rice
+Orissa,Baleshwar,Rice
+Orissa,Baragarh,Rice
+Orissa,Bhadrak,Rice
+Orissa,Bolangir,Rice
+Orissa,Boudh,Rice
+Orissa,Cuttack,Rice
+Orissa,Deogarh,Rice
+Orissa,Dhenkanal,Rice
+Orissa,Gajapati,Rice
+Orissa,Ganjam,Rice
+Orissa,Jagatsinghpur,Rice
+Orissa,Jajpur,Rice
+Orissa,Jharsuguda,Rice
+Orissa,Kalahandi,Rice
+Orissa,Kandhamal,Rice
+Orissa,Kendrapara,Rice
+Orissa,Keonjhar,Rice
+Orissa,Khordha,Rice
+Orissa,Koraput,Rice
+Orissa,Malkangiri,Rice
+Orissa,Mayurbhanj,Rice
+Orissa,Nabarangpur,Rice
+Orissa,Nayagarh,Rice
+Orissa,Nuapada,Rice
+Orissa,Puri,Rice
+Orissa,Rayagada,Rice
+Orissa,Sambalpur,Rice
+Orissa,Sonepur,Rice
+Orissa,Sundargarh,Rice
+Puducherry,Karaikal,Rice
+Puducherry,Mahe,Rice
+Puducherry,Puducherry,Rice
+Puducherry,Yanam,Rice
+Punjab,Amritsar,Wheat
+Punjab,Bathinda,Wheat
+Punjab,Faridkot,Wheat
+Punjab,Fatehgarh Sahib,Wheat
+Punjab,Firozpur,Wheat
+Punjab,Gurdaspur,Wheat
+Punjab,Hoshiarpur,Wheat
+Punjab,Jalandhar,Wheat
+Punjab,Kapurthala,Wheat
+Punjab,Ludhiana,Wheat
+Punjab,Mansa,Wheat
+Punjab,Moga,Wheat
+Punjab,Muktsar,Wheat
+Punjab,Nawan Shehar,Wheat
+Punjab,Patiala,Wheat
+Punjab,Rupnagar,Wheat
+Punjab,Sangrur,Wheat
+Rajasthan,Ajmer,Maize
+Rajasthan,Alwar,Maize
+Rajasthan,Banswara,Maize
+Rajasthan,Baran,Maize
+Rajasthan,Barmer,Maize
+Rajasthan,Bharatpur,Maize
+Rajasthan,Bhilwara,Maize
+Rajasthan,Bikaner,Maize
+Rajasthan,Bundi,Maize
+Rajasthan,Chittaurgarh,Maize
+Rajasthan,Churu,Maize
+Rajasthan,Dausa,Maize
+Rajasthan,Dhaulpur,Maize
+Rajasthan,Dungarpur,Maize
+Rajasthan,Ganganagar,Wheat
+Rajasthan,Hanumangarh,Wheat
+Rajasthan,Jaipur,Maize
+Rajasthan,Jaisalmer,Maize
+Rajasthan,Jalor,Maize
+Rajasthan,Jhalawar,Maize
+Rajasthan,Jhunjhunun,Maize
+Rajasthan,Jodhpur,Maize
+Rajasthan,Karauli,Maize
+Rajasthan,Kota,Maize
+Rajasthan,Nagaur,Maize
+Rajasthan,Pali,Maize
+Rajasthan,Rajsamand,Maize
+Rajasthan,Sawai Madhopur,Maize
+Rajasthan,Sikar,Maize
+Rajasthan,Sirohi,Maize
+Rajasthan,Tonk,Maize
+Rajasthan,Udaipur,Maize
+Sikkim,East,Rice
+Sikkim,North Sikkim,Maize
+Sikkim,South Sikkim,Rice
+Sikkim,West Sikkim,Rice
+Tamil Nadu,Ariyalur,Rice
+Tamil Nadu,Chennai,Rice
+Tamil Nadu,Coimbatore,Coconut
+Tamil Nadu,Cuddalore,Rice
+Tamil Nadu,Dharmapuri,Banana
+Tamil Nadu,Dindigul,Banana
+Tamil Nadu,Erode,Banana
+Tamil Nadu,Kanniyakumari,Coconut
+Tamil Nadu,Kancheepuram,Rice
+Tamil Nadu,Karur,Banana
+Tamil Nadu,Madurai,Banana
+Tamil Nadu,Nagapattinam,Rice
+Tamil Nadu,Namakkal,Banana
+Tamil Nadu,Nilgiris,Coffee
+Tamil Nadu,Perambalur,Rice
+Tamil Nadu,Pudukkottai,Rice
+Tamil Nadu,Ramanathapuram,Rice
+Tamil Nadu,Salem,Banana
+Tamil Nadu,Sivaganga,Rice
+Tamil Nadu,Thanjavur,Rice
+Tamil Nadu,Theni,Banana
+Tamil Nadu,Thiruvallur,Rice
+Tamil Nadu,Tiruchchirappalli,Rice
+Tamil Nadurich,Tirunelveli Kattabo,Coconut
+Tamil Nadu,Tiruvannamalai,Rice
+Tamil Nadu,Vellore,Rice
+Tamil Nadu,Virudhunagar,Cotton
+Tripura,Dhalai,Rice
+Tripura,North Tripura,Rice
+Tripura,South Tripura,Rice
+Tripura,West Tripura,Rice
+Uttar Pradesh,Agra,Wheat
+Uttar Pradesh,Aligarh,Wheat
+Uttar Pradesh,Allahabad,Wheat
+Uttar Pradesh,Ambedkar Nagar,Wheat
+Uttar Pradesh,Auraiya,Wheat
+Uttar Pradesh,Azamgarh,Wheat
+Uttar Pradesh,Badaun,Wheat
+Uttar Pradesh,Baghpat,Wheat
+Uttar Pradesh,Bahraich,Rice
+Uttar Pradesh,Ballia,Rice
+Uttar Pradesh,Balrampur,Rice
+Uttar Pradesh,Banda,Wheat
+Uttar Pradesh,Bara Banki,Wheat
+Uttar Pradesh,Bareilly,Wheat
+Uttar Pradesh,Basti,Rice
+Uttar Pradesh,Bijnor,Wheat
+Uttar Pradesh,Bulandshahr,Wheat
+Uttar Pradesh,Chandauli,Wheat
+Uttar Pradesh,Chitrakoot,Wheat
+Uttar Pradesh,Deoria,Rice
+Uttar Pradesh,Etah,Wheat
+Uttar Pradesh,Etawah,Wheat
+Uttar Pradesh,Faizabad,Wheat
+Uttar Pradesh,Farrukhabad,Wheat
+Uttar Pradesh,Fatehpur,Wheat
+Uttar Pradesh,Firozabad,Wheat
+Uttar Pradesh,Gautam Buddha Nagar,Wheat
+Uttar Pradesh,Ghaziabad,Wheat
+Uttar Pradesh,Ghazipur,Wheat
+Uttar Pradesh,Gonda,Rice
+Uttar Pradesh,Gorakhpur,Rice
+Uttar Pradesh,Hardoi,Wheat
+Uttar Pradesh,Hathras,Wheat
+Uttar Pradesh,Jalaun,Wheat
+Uttar Pradesh,Jaunpur,Wheat
+Uttar Pradesh,Jhansi,Wheat
+Uttar Pradesh,Jyotiba Phule Nagar,Wheat
+Uttar Pradesh,Kannauj,Wheat
+Uttar Pradesh,Kanpur,Wheat
+Uttar Pradesh,Kanpur Dehat,Wheat
+Uttar Pradesh,Kaushambi,Wheat
+Uttar Pradesh,Kushinagar,Rice
+Uttar Pradesh,Lakhimpur Kheri,Rice
+Uttar Pradesh,Lalitpur,Wheat
+Uttar Pradesh,Lucknow,Wheat
+Uttar Pradesh,Maharajganj,Rice
+Uttar Pradesh,Mahoba,Wheat
+Uttar Pradesh,Mainpuri,Wheat
+Uttar Pradesh,Mathura,Wheat
+Uttar Pradesh,Mau,Wheat
+Uttar Pradesh,Meerut,Wheat
+Uttar Pradesh,Mirzapur,Wheat
+Uttar Pradesh,Moradabad,Wheat
+Uttar Pradesh,Muzaffarnagar,Wheat
+Uttar Pradesh,Pilibhit,Wheat
+Uttar Pradesh,Pratapgarh,Wheat
+Uttar Pradesh,Rae Bareli,Wheat
+Uttar Pradesh,Rampur,Wheat
+Uttar Pradesh,Saharanpur,Wheat
+Uttar Pradesh,Sant Kabir Nagar,Rice
+Uttar Pradesh,Sant Ravi Das Nagar,Wheat
+Uttar Pradesh,Shahjahanpur,Wheat
+Uttar Pradesh,Shravasti,Rice
+Uttar Pradesh,Siddharth Nagar,Rice
+Uttar Pradesh,Sitapur,Wheat
+Uttar Pradesh,Sonbhadra,Wheat
+Uttar Pradesh,Sultanpur,Wheat
+Uttar Pradesh,Unnao,Wheat
+Uttar Pradesh,Varanasi,Wheat
+Uttaranchal,Almora,Maize
+Uttaranchal,Bageshwar,Maize
+Uttaranchal,Chamoli,Maize
+Uttaranchal,Champawat,Maize
+Uttaranchal,Dehra Dun,Maize
+Uttaranchal,Haridwar,Wheat
+Uttaranchal,Naini Tal,Maize
+Uttaranchal,Pauri Garhwal,Maize
+Uttaranchal,Pithoragarh,Maize
+Uttaranchal,Rudra Prayag,Maize
+Uttaranchal,Tehri Garhwal,Maize
+Uttaranchal,Udham Singh Nagar,Wheat
+Uttaranchal,Uttarkashi,Maize
+West Bengal,Bankura,Jute
+West Bengal,Barddhaman,Rice
+West Bengal,Birbhum,Rice
+West Bengal,Dakshin Dinajpur,Rice
+West Bengal,Darjiling,Tea
+West Bengal,East Midnapore,Rice
+West Bengal,Haora,Rice
+West Bengal,Hugli,Rice
+West Bengal,Jalpaiguri,Jute
+West Bengal,Kochbihar,Jute
+West Bengal,Kolkata,Jute
+West Bengal,Maldah,Mango
+West Bengal,Murshidabad,Jute
+West Bengal,Nadia,Rice
+West Bengal,North 24 Parganas,Rice
+West Bengal,Puruliya,Jute
+West Bengal,South 24 Parganas,Rice
+West Bengal,Uttar Dinajpur,Rice
+West Bengal,West Midnapore,Rice

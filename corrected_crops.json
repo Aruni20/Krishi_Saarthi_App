@@ -1,0 +1,1256 @@
+{
+  "rice": {
+    "crop_description": "Rice is a staple food crop in India, grown widely in wet areas like Eastern and Southern regions. It thrives in warm, rainy weather and grows best in flooded or well-watered fields.",
+    "visualization_description": "This bar chart compares rice farming practices across three clusters in India, showing average yield, rainfall, temperature, and days to harvest. Each cluster represents a different region and method, helping farmers see which practice gives the best yield.",
+    "chart": {
+      "type": "bar",
+      "data": {
+        "labels": ["Cluster 0 (East, Clay)", "Cluster 1 (South, Loam)", "Cluster 2 (Northeast, Silt)"],
+        "datasets": [
+          {
+            "label": "Average Yield (tons/ha)",
+            "data": [3.85, 3.2, 2.9],
+            "backgroundColor": "#4CAF50",
+            "borderColor": "#388E3C",
+            "borderWidth": 1
+          },
+          {
+            "label": "Rainfall (mm)",
+            "data": [1200, 1000, 900],
+            "backgroundColor": "#2196F3",
+            "borderColor": "#1976D2",
+            "borderWidth": 1
+          },
+          {
+            "label": "Temperature (°C)",
+            "data": [27.5, 28.0, 29.0],
+            "backgroundColor": "#FF9800",
+            "borderColor": "#F57C00",
+            "borderWidth": 1
+          },
+          {
+            "label": "Days to Harvest",
+            "data": [120, 115, 125],
+            "backgroundColor": "#9C27B0",
+            "borderColor": "#7B1FA2",
+            "borderWidth": 1
+          }
+        ]
+      },
+      "options": {
+        "plugins": {
+          "title": {
+            "display": true,
+            "text": "Rice Farming Practices by Cluster"
+          },
+          "legend": {
+            "position": "top"
+          }
+        },
+        "scales": {
+          "y": {
+            "beginAtZero": true,
+            "title": {
+              "display": true,
+              "text": "Value"
+            }
+          },
+          "x": {
+            "title": {
+              "display": true,
+              "text": "Cluster (Region, Soil)"
+            }
+          }
+        }
+      }
+    }
+  },
+  "maize": {
+    "crop_description": "Maize, or corn, is a major crop in Northern India, used for food and animal feed. It grows well in warm weather with moderate rain, in both irrigated and rainfed fields.",
+    "visualization_description": "This bar chart compares maize farming practices in Northern India across two clusters, showing average yield, rainfall, temperature, and days to harvest. It helps farmers see how irrigation and soil type affect maize yields.",
+    "chart": {
+      "type": "bar",
+      "data": {
+        "labels": ["Cluster 0 (North, Sandy)", "Cluster 1 (North, Loam)"],
+        "datasets": [
+          {
+            "label": "Average Yield (tons/ha)",
+            "data": [4.77, 4.52],
+            "backgroundColor": "#4CAF50",
+            "borderColor": "#388E3C",
+            "borderWidth": 1
+          },
+          {
+            "label": "Rainfall (mm)",
+            "data": [549.1, 549.3],
+            "backgroundColor": "#2196F3",
+            "borderColor": "#1976D2",
+            "borderWidth": 1
+          },
+          {
+            "label": "Temperature (°C)",
+            "data": [33.7, 21.2],
+            "backgroundColor": "#FF9800",
+            "borderColor": "#F57C00",
+            "borderWidth": 1
+          },
+          {
+            "label": "Days to Harvest",
+            "data": [104.4, 104.7],
+            "backgroundColor": "#9C27B0",
+            "borderColor": "#7B1FA2",
+            "borderWidth": 1
+          }
+        ]
+      },
+      "options": {
+        "plugins": {
+          "title": {
+            "display": true,
+            "text": "Maize Farming Practices by Cluster"
+          },
+          "legend": {
+            "position": "top"
+          }
+        },
+        "scales": {
+          "y": {
+            "beginAtZero": true,
+            "title": {
+              "display": true,
+              "text": "Value"
+            }
+          },
+          "x": {
+            "title": {
+              "display": true,
+              "text": "Cluster (Region, Soil)"
+            }
+          }
+        }
+      }
+    }
+  },
+  "chickpea": {
+    "crop_description": "Chickpea, or chana, is a popular pulse crop in Central and Western India, grown in cool, dry winters. It needs less water and is great for dry regions.",
+    "visualization_description": "This bar chart compares chickpea farming practices across two clusters, showing average yield, rainfall, temperature, and days to harvest. It helps farmers see how irrigation and fertilizers impact yields in dry regions.",
+    "chart": {
+      "type": "bar",
+      "data": {
+        "labels": ["Cluster 0 (Central, Clay)", "Cluster 1 (West, Loam)"],
+        "datasets": [
+          {
+            "label": "Average Yield (tons/ha)",
+            "data": [1.8, 1.5],
+            "backgroundColor": "#4CAF50",
+            "borderColor": "#388E3C",
+            "borderWidth": 1
+          },
+          {
+            "label": "Rainfall (mm)",
+            "data": [400, 350],
+            "backgroundColor": "#2196F3",
+            "borderColor": "#1976D2",
+            "borderWidth": 1
+          },
+          {
+            "label": "Temperature (°C)",
+            "data": [20.5, 22.0],
+            "backgroundColor": "#FF9800",
+            "borderColor": "#F57C00",
+            "borderWidth": 1
+          },
+          {
+            "label": "Days to Harvest",
+            "data": [90, 95],
+            "backgroundColor": "#9C27B0",
+            "borderColor": "#7B1FA2",
+            "borderWidth": 1
+          }
+        ]
+      },
+      "options": {
+        "plugins": {
+          "title": {
+            "display": true,
+            "text": "Chickpea Farming Practices by Cluster"
+          },
+          "legend": {
+            "position": "top"
+          }
+        },
+        "scales": {
+          "y": {
+            "beginAtZero": true,
+            "title": {
+              "display": true,
+              "text": "Value"
+            }
+          },
+          "x": {
+            "title": {
+              "display": true,
+              "text": "Cluster (Region, Soil)"
+            }
+          }
+        }
+      }
+    }
+  },
+  "mungbean": {
+    "crop_description": "Mung bean, or moong, is a fast-growing pulse crop popular in Southern and Central India. It loves warm, wet weather and grows quickly in short seasons.",
+    "visualization_description": "This bar chart compares mung bean farming practices across two clusters, showing average yield, rainfall, temperature, and days to harvest. It helps farmers see how irrigation and fertilizers boost yields in rainy regions.",
+    "chart": {
+      "type": "bar",
+      "data": {
+        "labels": ["Cluster 0 (South, Loam)", "Cluster 1 (Central, Clay)"],
+        "datasets": [
+          {
+            "label": "Average Yield (tons/ha)",
+            "data": [1.7, 1.5],
+            "backgroundColor": "#4CAF50",
+            "borderColor": "#388E3C",
+            "borderWidth": 1
+          },
+          {
+            "label": "Rainfall (mm)",
+            "data": [650, 600],
+            "backgroundColor": "#2196F3",
+            "borderColor": "#1976D2",
+            "borderWidth": 1
+          },
+          {
+            "label": "Temperature (°C)",
+            "data": [27.0, 28.5],
+            "backgroundColor": "#FF9800",
+            "borderColor": "#F57C00",
+            "borderWidth": 1
+          },
+          {
+            "label": "Days to Harvest",
+            "data": [75, 80],
+            "backgroundColor": "#9C27B0",
+            "borderColor": "#7B1FA2",
+            "borderWidth": 1
+          }
+        ]
+      },
+      "options": {
+        "plugins": {
+          "title": {
+            "display": true,
+            "text": "Mung Bean Farming Practices by Cluster"
+          },
+          "legend": {
+            "position": "top"
+          }
+        },
+        "scales": {
+          "y": {
+            "beginAtZero": true,
+            "title": {
+              "display": true,
+              "text": "Value"
+            }
+          },
+          "x": {
+            "title": {
+              "display": true,
+              "text": "Cluster (Region, Soil)"
+            }
+          }
+        }
+      }
+    }
+  },
+  "blackgram": {
+    "crop_description": "Black gram, or urad, is a pulse crop grown in warm, wet regions like Southern and Central India. It needs good rainfall and thrives in rainy seasons.",
+    "visualization_description": "This bar chart compares black gram farming practices across two clusters, showing average yield, rainfall, temperature, and days to harvest. It helps farmers see how irrigation and fertilizers improve yields in wet regions.",
+    "chart": {
+      "type": "bar",
+      "data": {
+        "labels": ["Cluster 0 (South, Clay)", "Cluster 1 (Central, Loam)"],
+        "datasets": [
+          {
+            "label": "Average Yield (tons/ha)",
+            "data": [1.4, 1.2],
+            "backgroundColor": "#4CAF50",
+            "borderColor": "#388E3C",
+            "borderWidth": 1
+          },
+          {
+            "label": "Rainfall (mm)",
+            "data": [700, 650],
+            "backgroundColor": "#2196F3",
+            "borderColor": "#1976D2",
+            "borderWidth": 1
+          },
+          {
+            "label": "Temperature (°C)",
+            "data": [26.0, 27.5],
+            "backgroundColor": "#FF9800",
+            "borderColor": "#F57C00",
+            "borderWidth": 1
+          },
+          {
+            "label": "Days to Harvest",
+            "data": [85, 90],
+            "backgroundColor": "#9C27B0",
+            "borderColor": "#7B1FA2",
+            "borderWidth": 1
+          }
+        ]
+      },
+      "options": {
+        "plugins": {
+          "title": {
+            "display": true,
+            "text": "Black Gram Farming Practices by Cluster"
+          },
+          "legend": {
+            "position": "top"
+          }
+        },
+        "scales": {
+          "y": {
+            "beginAtZero": true,
+            "title": {
+              "display": true,
+              "text": "Value"
+            }
+          },
+          "x": {
+            "title": {
+              "display": true,
+              "text": "Cluster (Region, Soil)"
+            }
+          }
+        }
+      }
+    }
+  },
+  "lentil": {
+    "crop_description": "Lentil, or masoor, is a pulse crop grown in cool, dry regions like Northern and Central India. It needs less water and is perfect for winter seasons.",
+    "visualization_description": "This bar chart compares lentil farming practices across two clusters, showing average yield, rainfall, temperature, and days to harvest. It helps farmers see how irrigation and fertilizers boost yields in dry regions.",
+    "chart": {
+      "type": "bar",
+      "data": {
+        "labels": ["Cluster 0 (North, Silt)", "Cluster 1 (Central, Loam)"],
+        "datasets": [
+          {
+            "label": "Average Yield (tons/ha)",
+            "data": [1.9, 1.6],
+            "backgroundColor": "#4CAF50",
+            "borderColor": "#388E3C",
+            "borderWidth": 1
+          },
+          {
+            "label": "Rainfall (mm)",
+            "data": [450, 400],
+            "backgroundColor": "#2196F3",
+            "borderColor": "#1976D2",
+            "borderWidth": 1
+          },
+          {
+            "label": "Temperature (°C)",
+            "data": [21.0, 22.5],
+            "backgroundColor": "#FF9800",
+            "borderColor": "#F57C00",
+            "borderWidth": 1
+          },
+          {
+            "label": "Days to Harvest",
+            "data": [100, 105],
+            "backgroundColor": "#9C27B0",
+            "borderColor": "#7B1FA2",
+            "borderWidth": 1
+          }
+        ]
+      },
+      "options": {
+        "plugins": {
+          "title": {
+            "display": true,
+            "text": "Lentil Farming Practices by Cluster"
+          },
+          "legend": {
+            "position": "top"
+          }
+        },
+        "scales": {
+          "y": {
+            "beginAtZero": true,
+            "title": {
+              "display": true,
+              "text": "Value"
+            }
+          },
+          "x": {
+            "title": {
+              "display": true,
+              "text": "Cluster (Region, Soil)"
+            }
+          }
+        }
+      }
+    }
+  },
+  "pomegranate": {
+    "crop_description": "Pomegranate is a fruit crop grown in warm, dry regions like Western and Southern India. It needs well-drained soil and can handle low rainfall.",
+    "visualization_description": "This bar chart compares pomegranate farming practices across two clusters, showing average yield, rainfall, temperature, and days to harvest. It helps farmers see how irrigation and fertilizers improve fruit yields in dry regions.",
+    "chart": {
+      "type": "bar",
+      "data": {
+        "labels": ["Cluster 0 (West, Loam)", "Cluster 1 (South, Sandy)"],
+        "datasets": [
+          {
+            "label": "Average Yield (tons/ha)",
+            "data": [6.5, 5.8],
+            "backgroundColor": "#4CAF50",
+            "borderColor": "#388E3C",
+            "borderWidth": 1
+          },
+          {
+            "label": "Rainfall (mm)",
+            "data": [500, 450],
+            "backgroundColor": "#2196F3",
+            "borderColor": "#1976D2",
+            "borderWidth": 1
+          },
+          {
+            "label": "Temperature (°C)",
+            "data": [30.0, 31.5],
+            "backgroundColor": "#FF9800",
+            "borderColor": "#F57C00",
+            "borderWidth": 1
+          },
+          {
+            "label": "Days to Harvest",
+            "data": [180, 185],
+            "backgroundColor": "#9C27B0",
+            "borderColor": "#7B1FA2",
+            "borderWidth": 1
+          }
+        ]
+      },
+      "options": {
+        "plugins": {
+          "title": {
+            "display": true,
+            "text": "Pomegranate Farming Practices by Cluster"
+          },
+          "legend": {
+            "position": "top"
+          }
+        },
+        "scales": {
+          "y": {
+            "beginAtZero": true,
+            "title": {
+              "display": true,
+              "text": "Value"
+            }
+          },
+          "x": {
+            "title": {
+              "display": true,
+              "text": "Cluster (Region, Soil)"
+            }
+          }
+        }
+      }
+    }
+  },
+  "banana": {
+    "crop_description": "Banana is a tropical fruit crop grown in warm, wet regions like Southern and Western India. It needs lots of water and rich soil for big, sweet bunches.",
+    "visualization_description": "This bar chart compares banana farming practices across three clusters, showing average yield, rainfall, temperature, and days to harvest. It helps farmers see how water and fertilizers affect fruit production in humid regions.",
+    "chart": {
+      "type": "bar",
+      "data": {
+        "labels": ["Cluster 0 (South, Loam)", "Cluster 1 (West, Clay)", "Cluster 2 (East, Silt)"],
+        "datasets": [
+          {
+            "label": "Average Yield (tons/ha)",
+            "data": [45.0, 40.0, 35.0],
+            "backgroundColor": "#4CAF50",
+            "borderColor": "#388E3C",
+            "borderWidth": 1
+          },
+          {
+            "label": "Rainfall (mm)",
+            "data": [1700, 1500, 1400],
+            "backgroundColor": "#2196F3",
+            "borderColor": "#1976D2",
+            "borderWidth": 1
+          },
+          {
+            "label": "Temperature (°C)",
+            "data": [27.0, 28.5, 29.0],
+            "backgroundColor": "#FF9800",
+            "borderColor": "#F57C00",
+            "borderWidth": 1
+          },
+          {
+            "label": "Days to Harvest",
+            "data": [300, 310, 320],
+            "backgroundColor": "#9C27B0",
+            "borderColor": "#7B1FA2",
+            "borderWidth": 1
+          }
+        ]
+      },
+      "options": {
+        "plugins": {
+          "title": {
+            "display": true,
+            "text": "Banana Farming Practices by Cluster"
+          },
+          "legend": {
+            "position": "top"
+          }
+        },
+        "scales": {
+          "y": {
+            "beginAtZero": true,
+            "title": {
+              "display": true,
+              "text": "Value"
+            }
+          },
+          "x": {
+            "title": {
+              "display": true,
+              "text": "Cluster (Region, Soil)"
+            }
+          }
+        }
+      }
+    }
+  },
+  "mango": {
+    "crop_description": "Mango is a favorite fruit crop grown in warm regions like Southern and Western India. It needs well-drained soil and moderate rain for tasty, juicy fruits.",
+    "visualization_description": "This bar chart compares mango farming practices across three clusters, showing average yield, rainfall, temperature, and days to harvest. It helps farmers see how irrigation and soil type affect fruit yields.",
+    "chart": {
+      "type": "bar",
+      "data": {
+        "labels": ["Cluster 0 (South, Loam)", "Cluster 1 (West, Sandy)", "Cluster 2 (East, Clay)"],
+        "datasets": [
+          {
+            "label": "Average Yield (tons/ha)",
+            "data": [8.0, 7.2, 6.5],
+            "backgroundColor": "#4CAF50",
+            "borderColor": "#388E3C",
+            "borderWidth": 1
+          },
+          {
+            "label": "Rainfall (mm)",
+            "data": [800, 700, 650],
+            "backgroundColor": "#2196F3",
+            "borderColor": "#1976D2",
+            "borderWidth": 1
+          },
+          {
+            "label": "Temperature (°C)",
+            "data": [29.0, 30.5, 31.0],
+            "backgroundColor": "#FF9800",
+            "borderColor": "#F57C00",
+            "borderWidth": 1
+          },
+          {
+            "label": "Days to Harvest",
+            "data": [240, 250, 260],
+            "backgroundColor": "#9C27B0",
+            "borderColor": "#7B1FA2",
+            "borderWidth": 1
+          }
+        ]
+      },
+      "options": {
+        "plugins": {
+          "title": {
+            "display": true,
+            "text": "Mango Farming Practices by Cluster"
+          },
+          "legend": {
+            "position": "top"
+          }
+        },
+        "scales": {
+          "y": {
+            "beginAtZero": true,
+            "title": {
+              "display": true,
+              "text": "Value"
+            }
+          },
+          "x": {
+            "title": {
+              "display": true,
+              "text": "Cluster (Region, Soil)"
+            }
+          }
+        }
+      }
+    }
+  },
+  "grapes": {
+    "crop_description": "Grapes are a fruit crop grown in warm, dry regions like Western and Southern India. They need well-drained soil and moderate water for sweet, juicy bunches.",
+    "visualization_description": "This bar chart compares grape farming practices across two clusters, showing average yield, rainfall, temperature, and days to harvest. It helps farmers see how irrigation and fertilizers improve fruit yields in dry regions.",
+    "chart": {
+      "type": "bar",
+      "data": {
+        "labels": ["Cluster 0 (West, Loam)", "Cluster 1 (South, Sandy)"],
+        "datasets": [
+          {
+            "label": "Average Yield (tons/ha)",
+            "data": [10.0, 9.0],
+            "backgroundColor": "#4CAF50",
+            "borderColor": "#388E3C",
+            "borderWidth": 1
+          },
+          {
+            "label": "Rainfall (mm)",
+            "data": [500, 450],
+            "backgroundColor": "#2196F3",
+            "borderColor": "#1976D2",
+            "borderWidth": 1
+          },
+          {
+            "label": "Temperature (°C)",
+            "data": [25.0, 26.5],
+            "backgroundColor": "#FF9800",
+            "borderColor": "#F57C00",
+            "borderWidth": 1
+          },
+          {
+            "label": "Days to Harvest",
+            "data": [150, 155],
+            "backgroundColor": "#9C27B0",
+            "borderColor": "#7B1FA2",
+            "borderWidth": 1
+          }
+        ]
+      },
+      "options": {
+        "plugins": {
+          "title": {
+            "display": true,
+            "text": "Grape Farming Practices by Cluster"
+          },
+          "legend": {
+            "position": "top"
+          }
+        },
+        "scales": {
+          "y": {
+            "beginAtZero": true,
+            "title": {
+              "display": true,
+              "text": "Value"
+            }
+          },
+          "x": {
+            "title": {
+              "display": true,
+              "text": "Cluster (Region, Soil)"
+            }
+          }
+        }
+      }
+    }
+  },
+  "watermelon": {
+    "crop_description": "Watermelon is a juicy fruit crop grown in warm, sunny regions like Northern and Central India. It loves sandy soil and needs moderate water for big, sweet fruits.",
+    "visualization_description": "This bar chart compares watermelon farming practices across two clusters, showing average yield, rainfall, temperature, and days to harvest. It helps farmers see how irrigation and fertilizers boost fruit yields in sunny regions.",
+    "chart": {
+      "type": "bar",
+      "data": {
+        "labels": ["Cluster 0 (North, Sandy)", "Cluster 1 (Central, Loam)"],
+        "datasets": [
+          {
+            "label": "Average Yield (tons/ha)",
+            "data": [25.0, 22.0],
+            "backgroundColor": "#4CAF50",
+            "borderColor": "#388E3C",
+            "borderWidth": 1
+          },
+          {
+            "label": "Rainfall (mm)",
+            "data": [600, 550],
+            "backgroundColor": "#2196F3",
+            "borderColor": "#1976D2",
+            "borderWidth": 1
+          },
+          {
+            "label": "Temperature (°C)",
+            "data": [30.0, 31.5],
+            "backgroundColor": "#FF9800",
+            "borderColor": "#F57C00",
+            "borderWidth": 1
+          },
+          {
+            "label": "Days to Harvest",
+            "data": [90, 95],
+            "backgroundColor": "#9C27B0",
+            "borderColor": "#7B1FA2",
+            "borderWidth": 1
+          }
+        ]
+      },
+      "options": {
+        "plugins": {
+          "title": {
+            "display": true,
+            "text": "Watermelon Farming Practices by Cluster"
+          },
+          "legend": {
+            "position": "top"
+          }
+        },
+        "scales": {
+          "y": {
+            "beginAtZero": true,
+            "title": {
+              "display": true,
+              "text": "Value"
+            }
+          },
+          "x": {
+            "title": {
+              "display": true,
+              "text": "Cluster (Region, Soil)"
+            }
+          }
+        }
+      }
+    }
+  },
+  "muskmelon": {
+    "crop_description": "Muskmelon is a sweet fruit crop grown in warm, sunny regions like Northern and Western India. It needs well-drained soil and moderate water for juicy fruits.",
+    "visualization_description": "This bar chart compares muskmelon farming practices across two clusters, showing average yield, rainfall, temperature, and days to harvest. It helps farmers see how irrigation and fertilizers improve fruit yields in sunny regions.",
+    "chart": {
+      "type": "bar",
+      "data": {
+        "labels": ["Cluster 0 (North, Sandy)", "Cluster 1 (West, Loam)"],
+        "datasets": [
+          {
+            "label": "Average Yield (tons/ha)",
+            "data": [20.0, 18.0],
+            "backgroundColor": "#4CAF50",
+            "borderColor": "#388E3C",
+            "borderWidth": 1
+          },
+          {
+            "label": "Rainfall (mm)",
+            "data": [550, 500],
+            "backgroundColor": "#2196F3",
+            "borderColor": "#1976D2",
+            "borderWidth": 1
+          },
+          {
+            "label": "Temperature (°C)",
+            "data": [29.0, 30.5],
+            "backgroundColor": "#FF9800",
+            "borderColor": "#F57C00",
+            "borderWidth": 1
+          },
+          {
+            "label": "Days to Harvest",
+            "data": [85, 90],
+            "backgroundColor": "#9C27B0",
+            "borderColor": "#7B1FA2",
+            "borderWidth": 1
+          }
+        ]
+      },
+      "options": {
+        "plugins": {
+          "title": {
+            "display": true,
+            "text": "Muskmelon Farming Practices by Cluster"
+          },
+          "legend": {
+            "position": "top"
+          }
+        },
+        "scales": {
+          "y": {
+            "beginAtZero": true,
+            "title": {
+              "display": true,
+              "text": "Value"
+            }
+          },
+          "x": {
+            "title": {
+              "display": true,
+              "text": "Cluster (Region, Soil)"
+            }
+          }
+        }
+      }
+    }
+  },
+  "apple": {
+    "crop_description": "Apples are a fruit crop grown in cool, hilly regions like Northern India. They need well-drained soil and cooler weather for crisp, tasty fruits.",
+    "visualization_description": "This bar chart compares apple farming practices across two clusters in Northern India, showing average yield, rainfall, temperature, and days to harvest. It helps farmers see how irrigation and fertilizers affect fruit yields in cool regions.",
+    "chart": {
+      "type": "bar",
+      "data": {
+        "labels": ["Cluster 0 (North, Loam)", "Cluster 1 (North, Silt)"],
+        "datasets": [
+          {
+            "label": "Average Yield (tons/ha)",
+            "data": [12.0, 10.5],
+            "backgroundColor": "#4CAF50",
+            "borderColor": "#388E3C",
+            "borderWidth": 1
+          },
+          {
+            "label": "Rainfall (mm)",
+            "data": [800, 700],
+            "backgroundColor": "#2196F3",
+            "borderColor": "#1976D2",
+            "borderWidth": 1
+          },
+          {
+            "label": "Temperature (°C)",
+            "data": [15.0, 16.5],
+            "backgroundColor": "#FF9800",
+            "borderColor": "#F57C00",
+            "borderWidth": 1
+          },
+          {
+            "label": "Days to Harvest",
+            "data": [200, 210],
+            "backgroundColor": "#9C27B0",
+            "borderColor": "#7B1FA2",
+            "borderWidth": 1
+          }
+        ]
+      },
+      "options": {
+        "plugins": {
+          "title": {
+            "display": true,
+            "text": "Apple Farming Practices by Cluster"
+          },
+          "legend": {
+            "position": "top"
+          }
+        },
+        "scales": {
+          "y": {
+            "beginAtZero": true,
+            "title": {
+              "display": true,
+              "text": "Value"
+            }
+          },
+          "x": {
+            "title": {
+              "display": true,
+              "text": "Cluster (Region, Soil)"
+            }
+          }
+        }
+      }
+    }
+  },
+  "orange": {
+    "crop_description": "Oranges are a citrus fruit crop grown in warm regions like Southern and Central India. They need well-drained soil and moderate rain for juicy fruits.",
+    "visualization_description": "This bar chart compares orange farming practices across two clusters, showing average yield, rainfall, temperature, and days to harvest. It helps farmers see how irrigation and fertilizers improve fruit yields in warm regions.",
+    "chart": {
+      "type": "bar",
+      "data": {
+        "labels": ["Cluster 0 (South, Loam)", "Cluster 1 (Central, Sandy)"],
+        "datasets": [
+          {
+            "label": "Average Yield (tons/ha)",
+            "data": [15.0, 13.5],
+            "backgroundColor": "#4CAF50",
+            "borderColor": "#388E3C",
+            "borderWidth": 1
+          },
+          {
+            "label": "Rainfall (mm)",
+            "data": [900, 800],
+            "backgroundColor": "#2196F3",
+            "borderColor": "#1976D2",
+            "borderWidth": 1
+          },
+          {
+            "label": "Temperature (°C)",
+            "data": [25.0, 26.5],
+            "backgroundColor": "#FF9800",
+            "borderColor": "#F57C00",
+            "borderWidth": 1
+          },
+          {
+            "label": "Days to Harvest",
+            "data": [240, 250],
+            "backgroundColor": "#9C27B0",
+            "borderColor": "#7B1FA2",
+            "borderWidth": 1
+          }
+        ]
+      },
+      "options": {
+        "plugins": {
+          "title": {
+            "display": true,
+            "text": "Orange Farming Practices by Cluster"
+          },
+          "legend": {
+            "position": "top"
+          }
+        },
+        "scales": {
+          "y": {
+            "beginAtZero": true,
+            "title": {
+              "display": true,
+              "text": "Value"
+            }
+          },
+          "x": {
+            "title": {
+              "display": true,
+              "text": "Cluster (Region, Soil)"
+            }
+          }
+        }
+      }
+    }
+  },
+  "papaya": {
+    "crop_description": "Papaya is a tropical fruit crop grown in warm, wet regions like Southern and Eastern India. It needs lots of water and rich soil for large, sweet fruits.",
+    "visualization_description": "This bar chart compares papaya farming practices across two clusters, showing average yield, rainfall, temperature, and days to harvest. It helps farmers see how irrigation and fertilizers boost fruit yields in humid regions.",
+    "chart": {
+      "type": "bar",
+      "data": {
+        "labels": ["Cluster 0 (South, Loam)", "Cluster 1 (East, Clay)"],
+        "datasets": [
+          {
+            "label": "Average Yield (tons/ha)",
+            "data": [50.0, 45.0],
+            "backgroundColor": "#4CAF50",
+            "borderColor": "#388E3C",
+            "borderWidth": 1
+          },
+          {
+            "label": "Rainfall (mm)",
+            "data": [1500, 1400],
+            "backgroundColor": "#2196F3",
+            "borderColor": "#1976D2",
+            "borderWidth": 1
+          },
+          {
+            "label": "Temperature (°C)",
+            "data": [28.0, 29.5],
+            "backgroundColor": "#FF9800",
+            "borderColor": "#F57C00",
+            "borderWidth": 1
+          },
+          {
+            "label": "Days to Harvest",
+            "data": [270, 280],
+            "backgroundColor": "#9C27B0",
+            "borderColor": "#7B1FA2",
+            "borderWidth": 1
+          }
+        ]
+      },
+      "options": {
+        "plugins": {
+          "title": {
+            "display": true,
+            "text": "Papaya Farming Practices by Cluster"
+          },
+          "legend": {
+            "position": "top"
+          }
+        },
+        "scales": {
+          "y": {
+            "beginAtZero": true,
+            "title": {
+              "display": true,
+              "text": "Value"
+            }
+          },
+          "x": {
+            "title": {
+              "display": true,
+              "text": "Cluster (Region, Soil)"
+            }
+          }
+        }
+      }
+    }
+  },
+  "coconut": {
+    "crop_description": "Coconut is a tropical crop grown in coastal regions like Southern and Eastern India. It needs heavy rain and warm, humid weather for lots of nuts.",
+    "visualization_description": "This bar chart compares coconut farming practices across three clusters, showing average yield, rainfall, temperature, and days to harvest. It helps farmers see how water and fertilizers affect nut production in humid regions.",
+    "chart": {
+      "type": "bar",
+      "data": {
+        "labels": ["Cluster 0 (South, Sandy)", "Cluster 1 (South, Loam)", "Cluster 2 (East, Clay)"],
+        "datasets": [
+          {
+            "label": "Average Yield (tons/ha)",
+            "data": [80.0, 70.0, 60.0],
+            "backgroundColor": "#4CAF50",
+            "borderColor": "#388E3C",
+            "borderWidth": 1
+          },
+          {
+            "label": "Rainfall (mm)",
+            "data": [2000, 1800, 1600],
+            "backgroundColor": "#2196F3",
+            "borderColor": "#1976D2",
+            "borderWidth": 1
+          },
+          {
+            "label": "Temperature (°C)",
+            "data": [27.0, 28.5, 29.0],
+            "backgroundColor": "#FF9800",
+            "borderColor": "#F57C00",
+            "borderWidth": 1
+          },
+          {
+            "label": "Days to Harvest",
+            "data": [365, 365, 365],
+            "backgroundColor": "#9C27B0",
+            "borderColor": "#7B1FA2",
+            "borderWidth": 1
+          }
+        ]
+      },
+      "options": {
+        "plugins": {
+          "title": {
+            "display": true,
+            "text": "Coconut Farming Practices by Cluster"
+          },
+          "legend": {
+            "position": "top"
+          }
+        },
+        "scales": {
+          "y": {
+            "beginAtZero": true,
+            "title": {
+              "display": true,
+              "text": "Value"
+            }
+          },
+          "x": {
+            "title": {
+              "display": true,
+              "text": "Cluster (Region, Soil)"
+            }
+          }
+        }
+      }
+    }
+  },
+  "cotton": {
+    "crop_description": "Cotton is a fiber crop grown in warm, dry regions like Western and Southern India. It needs well-drained soil and moderate rain for good boll production.",
+    "visualization_description": "This bar chart compares cotton farming practices across three clusters, showing average yield, rainfall, temperature, and days to harvest. It helps farmers see how irrigation and fertilizers improve boll production in dry regions.",
+    "chart": {
+      "type": "bar",
+      "data": {
+        "labels": ["Cluster 0 (West, Clay)", "Cluster 1 (South, Loam)", "Cluster 2 (Central, Sandy)"],
+        "datasets": [
+          {
+            "label": "Average Yield (tons/ha)",
+            "data": [2.5, 2.2, 1.9],
+            "backgroundColor": "#4CAF50",
+            "borderColor": "#388E3C",
+            "borderWidth": 1
+          },
+          {
+            "label": "Rainfall (mm)",
+            "data": [600, 550, 500],
+            "backgroundColor": "#2196F3",
+            "borderColor": "#1976D2",
+            "borderWidth": 1
+          },
+          {
+            "label": "Temperature (°C)",
+            "data": [30.0, 31.5, 32.0],
+            "backgroundColor": "#FF9800",
+            "borderColor": "#F57C00",
+            "borderWidth": 1
+          },
+          {
+            "label": "Days to Harvest",
+            "data": [180, 185, 190],
+            "backgroundColor": "#9C27B0",
+            "borderColor": "#7B1FA2",
+            "borderWidth": 1
+          }
+        ]
+      },
+      "options": {
+        "plugins": {
+          "title": {
+            "display": true,
+            "text": "Cotton Farming Practices by Cluster"
+          },
+          "legend": {
+            "position": "top"
+          }
+        },
+        "scales": {
+          "y": {
+            "beginAtZero": true,
+            "title": {
+              "display": true,
+              "text": "Value"
+            }
+          },
+          "x": {
+            "title": {
+              "display": true,
+              "text": "Cluster (Region, Soil)"
+            }
+          }
+        }
+      }
+    }
+  },
+  "jute": {
+    "crop_description": "Jute is a fiber crop grown in wet, humid regions like Eastern India. It needs heavy rain and warm weather to produce strong fibers.",
+    "visualization_description": "This bar chart compares jute farming practices across two clusters in Eastern India, showing average yield, rainfall, temperature, and days to harvest. It helps farmers see how irrigation and fertilizers improve fiber production in wet regions.",
+    "chart": {
+      "type": "bar",
+      "data": {
+        "labels": ["Cluster 0 (East, Silt)", "Cluster 1 (East, Clay)"],
+        "datasets": [
+          {
+            "label": "Average Yield (tons/ha)",
+            "data": [2.8, 2.5],
+            "backgroundColor": "#4CAF50",
+            "borderColor": "#388E3C",
+            "borderWidth": 1
+          },
+          {
+            "label": "Rainfall (mm)",
+            "data": [1500, 1400],
+            "backgroundColor": "#2196F3",
+            "borderColor": "#1976D2",
+            "borderWidth": 1
+          },
+          {
+            "label": "Temperature (°C)",
+            "data": [28.0, 29.5],
+            "backgroundColor": "#FF9800",
+            "borderColor": "#F57C00",
+            "borderWidth": 1
+          },
+          {
+            "label": "Days to Harvest",
+            "data": [120, 125],
+            "backgroundColor": "#9C27B0",
+            "borderColor": "#7B1FA2",
+            "borderWidth": 1
+          }
+        ]
+      },
+      "options": {
+        "plugins": {
+          "title": {
+            "display": true,
+            "text": "Jute Farming Practices by Cluster"
+          },
+          "legend": {
+            "position": "top"
+          }
+        },
+        "scales": {
+          "y": {
+            "beginAtZero": true,
+            "title": {
+              "display": true,
+              "text": "Value"
+            }
+          },
+          "x": {
+            "title": {
+              "display": true,
+              "text": "Cluster (Region, Soil)"
+            }
+          }
+        }
+      }
+    }
+  },
+  "coffee": {
+    "crop_description": "Coffee is a plantation crop grown in hilly, humid regions like Southern India. It needs heavy rain and cooler weather for high-quality beans.",
+    "visualization_description": "This bar chart compares coffee farming practices across two clusters in Southern India, showing average yield, rainfall, temperature, and days to harvest. It helps farmers see how irrigation and fertilizers improve bean yields in humid regions.",
+    "chart": {
+      "type": "bar",
+      "data": {
+        "labels": ["Cluster 0 (South, Loam)", "Cluster 1 (South, Clay)"],
+        "datasets": [
+          {
+            "label": "Average Yield (tons/ha)",
+            "data": [1.2, 1.0],
+            "backgroundColor": "#4CAF50",
+            "borderColor": "#388E3C",
+            "borderWidth": 1
+          },
+          {
+            "label": "Rainfall (mm)",
+            "data": [1800, 1600],
+            "backgroundColor": "#2196F3",
+            "borderColor": "#1976D2",
+            "borderWidth": 1
+          },
+          {
+            "label": "Temperature (°C)",
+            "data": [22.0, 23.5],
+            "backgroundColor": "#FF9800",
+            "borderColor": "#F57C00",
+            "borderWidth": 1
+          },
+          {
+            "label": "Days to Harvest",
+            "data": [365, 365],
+            "backgroundColor": "#9C27B0",
+            "borderColor": "#7B1FA2",
+            "borderWidth": 1
+          }
+        ]
+      },
+      "options": {
+        "plugins": {
+          "title": {
+            "display": true,
+            "text": "Coffee Farming Practices by Cluster"
+          },
+          "legend": {
+            "position": "top"
+          }
+        },
+        "scales": {
+          "y": {
+            "beginAtZero": true,
+            "title": {
+              "display": true,
+              "text": "Value"
+            }
+          },
+          "x": {
+            "title": {
+              "display": true,
+              "text": "Cluster (Region, Soil)"
+            }
+          }
+        }
+      }
+    }
+  }
+}

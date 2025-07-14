@@ -1,0 +1,400 @@
+{
+  "rice": {
+    "crop_description": "Rice is a staple food crop in India, grown widely in wet areas like Eastern and Southern regions. It loves warm, rainy weather and grows best in flooded or well-watered fields.",
+    "common_practices_introduction": "These are the most common practices for growing rice in India:",
+    "farming_practices": [
+      {
+        "Cluster": 0,
+        "Explanation": "In Eastern India, like West Bengal, you grow rice on clay soil with lots of rain (1200 mm) and warm weather (27.5°C). Using fertilizers and irrigation, it takes about 120 days to harvest. You get an average of 3.85 tons per hectare, with yields from 0.5 to 8.2 tons, perfect for the rainy monsoon season."
+      },
+      {
+        "Cluster": 1,
+        "Explanation": "In Southern India, like Andhra Pradesh, rice grows on loam soil with slightly less rain (1000 mm) and warmer weather (28°C). Farmers use irrigation but no fertilizers, harvesting in about 115 days. The average yield is 3.2 tons per hectare, ranging from 0.3 to 7.5 tons, good for humid areas."
+      },
+      {
+        "Cluster": 2,
+        "Explanation": "In Northeast India, like Assam, rice is grown on silty soil with 900 mm rain and warmer weather (29°C). Farmers use fertilizers but rely on rain, no irrigation, and harvest in about 125 days. The average yield is 2.9 tons per hectare, ranging from 0.2 to 6.8 tons, suitable for rainy hill areas."
+      }
+    ],
+    "best_practice_recommendation": {
+      "Cluster": 0,
+      "Advice": "For the best rice harvest, grow in Eastern India on clay soil with plenty of water (1200 mm rain) during the monsoon. Use fertilizers and keep fields flooded with irrigation. This gives you an average of 3.85 tons per hectare. Choose high-yielding rice varieties and manage water carefully to get the most from your crop."
+    }
+  },
+  "maize": {
+    "crop_description": "Maize, or corn, is a major crop in Northern India, used for food and animal feed. It grows well in warm weather with moderate rain, in both irrigated and rainfed fields.",
+    "common_practices_introduction": "These are the most common practices for growing maize in India:",
+    "farming_practices": [
+      {
+        "Cluster": 0,
+        "Explanation": "In Northern India, like Uttar Pradesh, maize grows on sandy soil with 549 mm rain and hot weather (33.7°C). Farmers use irrigation but no fertilizers, harvesting in about 104 days. The average yield is 4.77 tons per hectare, ranging from -0.34 to 9.95 tons, ideal for rainy seasons."
+      },
+      {
+        "Cluster": 1,
+        "Explanation": "Also in Northern India, like Punjab, maize is grown on loam soil with similar rain (549 mm) but cooler weather (21.2°C). No fertilizers or irrigation are used, relying on rain, with harvest in about 105 days. The average yield is 4.52 tons per hectare, ranging from -0.88 to 9.83 tons, good for sunny weather."
+      }
+    ],
+    "best_practice_recommendation": {
+      "Cluster": 0,
+      "Advice": "For the best maize harvest, grow in Northern India on sandy soil with irrigation during the rainy season (549 mm rain, 33.7°C). This gives an average of 4.77 tons per hectare. Use hybrid seeds and drip irrigation to ensure a steady water supply, especially in hot weather, for a strong crop."
+    }
+  },
+  "chickpea": {
+    "crop_description": "Chickpea, or chana, is a popular pulse crop in Central and Western India, grown in cool, dry winters. It needs less water and is great for dry regions.",
+    "common_practices_introduction": "These are the most common practices for growing chickpeas in India:",
+    "farming_practices": [
+      {
+        "Cluster": 0,
+        "Explanation": "In Central India, like Madhya Pradesh, chickpeas grow on clay soil with 400 mm rain and cool weather (20.5°C). Farmers use fertilizers and irrigation, harvesting in about 90 days. The average yield is 1.8 tons per hectare, ranging from 0.4 to 3.2 tons, perfect for dry winters."
+      },
+      {
+        "Cluster": 1,
+        "Explanation": "In Western India, like Gujarat, chickpeas grow on loam soil with less rain (350 mm) and slightly warmer weather (22°C). No fertilizers or irrigation are used, with harvest in about 95 days. The average yield is 1.5 tons per hectare, ranging from 0.3 to 2.8 tons, suited for dry areas."
+      }
+    ],
+    "best_practice_recommendation": {
+      "Cluster": 0,
+      "Advice": "For the best chickpea harvest, grow in Central India on clay soil during cool, dry winters (400 mm rain, 20.5°C). Use fertilizers and light irrigation for an average yield of 1.8 tons per hectare. Plant early to avoid pests and add phosphorus fertilizers for better growth."
+    }
+  },
+  "kidneybeans": {
+    "crop_description": "Kidney beans, or rajma, are grown in warm, humid areas like Northern and Central India. They need moderate water and well-drained soil for good yields.",
+    "common_practices_introduction": "These are the most common practices for growing kidney beans in India:",
+    "farming_practices": [
+      {
+        "Cluster": 0,
+        "Explanation": "In Northern India, like Uttar Pradesh, kidney beans grow on loam soil with 600 mm rain and warm weather (24°C). Farmers use fertilizers and irrigation, harvesting in about 85 days. The average yield is 1.6 tons per hectare, ranging from 0.5 to 2.9 tons, great for humid conditions."
+      },
+      {
+        "Cluster": 1,
+        "Explanation": "In Central India, like Madhya Pradesh, kidney beans grow on clay soil with less rain (550 mm) and warmer weather (25.5°C). No fertilizers or irrigation are used, with harvest in about 90 days. The average yield is 1.4 tons per hectare, ranging from 0.3 to 2.5 tons, suited for humid areas."
+      }
+    ],
+    "best_practice_recommendation": {
+      "Cluster": 0,
+      "Advice": "For the best kidney bean harvest, grow in Northern India on loam soil with irrigation and fertilizers (600 mm rain, 24°C). This gives an average of 1.6 tons per hectare. Use nitrogen-fixing seeds and water during flowering to get a bigger crop."
+    }
+  },
+  "mothbeans": {
+    "crop_description": "Moth beans are a drought-tolerant pulse crop grown in dry, warm regions like Western and Central India. They need minimal water and thrive in hot weather.",
+    "common_practices_introduction": "These are the most common practices for growing moth beans in India:",
+    "farming_practices": [
+      {
+        "Cluster": 0,
+        "Explanation": "In Western India, like Rajasthan, moth beans grow on sandy soil with 450 mm rain and warm weather (28°C). Farmers use fertilizers and irrigation, harvesting in about 80 days. The average yield is 1.3 tons per hectare, ranging from 0.2 to 2.4 tons, ideal for dry conditions."
+      },
+      {
+        "Cluster": 1,
+        "Explanation": "In Central India, like Madhya Pradesh, moth beans grow on loam soil with less rain (400 mm) and hotter weather (29.5°C). No fertilizers or irrigation are used, with harvest in about 85 days. The average yield is 1.1 tons per hectare, ranging from 0.1 to 2.0 tons, suited for dry areas."
+      }
+    ],
+    "best_practice_recommendation": {
+      "Cluster": 0,
+      "Advice": "For the best moth bean harvest, grow in Western India on sandy soil with irrigation and fertilizers (450 mm rain, 28°C). This gives an average of 1.3 tons per hectare. Choose drought-resistant varieties and use light irrigation to ensure a good crop in dry conditions."
+    }
+  },
+  "mungbean": {
+    "crop_description": "Mung bean, or moong, is a fast-growing pulse crop popular in Southern and Central India. It loves warm, wet weather and grows quickly in short seasons.",
+    "common_practices_introduction": "These are the most common practices for growing mung beans in India:",
+    "farming_practices": [
+      {
+        "Cluster": 0,
+        "Explanation": "In Southern India, like Tamil Nadu, mung beans grow on loam soil with 650 mm rain and warm weather (27°C). Farmers use fertilizers and irrigation, harvesting in about 75 days. The average yield is 1.7 tons per hectare, ranging from 0.4 to 3.0 tons, great for rainy seasons."
+      },
+      {
+        "Cluster": 1,
+        "Explanation": "In Central India, like Maharashtra, mung beans grow on clay soil with less rain (600 mm) and warmer weather (28.5°C). No fertilizers or irrigation are used, with harvest in about 80 days. The average yield is 1.5 tons per hectare, ranging from 0.3 to 2.7 tons, suited for humid areas."
+      }
+    ],
+    "best_practice_recommendation": {
+      "Cluster": 0,
+      "Advice": "For the best mung bean harvest, grow in Southern India on loam soil with irrigation and fertilizers (650 mm rain, 27°C). This gives an average of 1.7 tons per hectare. Plant short-duration varieties and water during flowering for a strong crop."
+    }
+  },
+  "blackgram": {
+    "crop_description": "Black gram, or urad, is a pulse crop grown in warm, wet regions like Southern and Central India. It needs good rainfall and thrives in rainy seasons.",
+    "common_practices_introduction": "These are the most common practices for growing black gram in India:",
+    "farming_practices": [
+      {
+        "Cluster": 0,
+        "Explanation": "In Southern India, like Andhra Pradesh, black gram grows on clay soil with 700 mm rain and warm weather (26°C). Farmers use fertilizers and irrigation, harvesting in about 85 days. The average yield is 1.4 tons per hectare, ranging from 0.3 to 2.6 tons, ideal for rainy conditions."
+      },
+      {
+        "Cluster": 1,
+        "Explanation": "In Central India, like Madhya Pradesh, black gram grows on loam soil with less rain (650 mm) and warmer weather (27.5°C). No fertilizers or irrigation are used, with harvest in about 90 days. The average yield is 1.2 tons per hectare, ranging from 0.2 to 2.3 tons, suited for humid areas."
+      }
+    ],
+    "best_practice_recommendation": {
+      "Cluster": 0,
+      "Advice": "For the best black gram harvest, grow in Southern India on clay soil with irrigation and fertilizers (700 mm rain, 26°C). This gives an average of 1.4 tons per hectare. Use high-yielding varieties and water during pod formation for a better crop."
+    }
+  },
+  "lentil": {
+    "crop_description": "Lentil, or masoor, is a pulse crop grown in cool, dry regions like Northern and Central India. It needs less water and is perfect for winter seasons.",
+    "common_practices_introduction": "These are the most common practices for growing lentils in India:",
+    "farming_practices": [
+      {
+        "Cluster": 0,
+        "Explanation": "In Northern India, like Uttar Pradesh, lentils grow on silty soil with 450 mm rain and cool weather (21°C). Farmers use fertilizers and irrigation, harvesting in about 100 days. The average yield is 1.9 tons per hectare, ranging from 0.5 to 3.3 tons, great for dry winters."
+      },
+      {
+        "Cluster": 1,
+        "Explanation": "In Central India, like Madhya Pradesh, lentils grow on loam soil with less rain (400 mm) and slightly warmer weather (22.5°C). No fertilizers or irrigation are used, with harvest in about 105 days. The average yield is 1.6 tons per hectare, ranging from 0.4 to 2.9 tons, suited for dry areas."
+      }
+    ],
+    "best_practice_recommendation": {
+      "Cluster": 0,
+      "Advice": "For the best lentil harvest, grow in Northern India on silty soil with irrigation and fertilizers (450 mm rain, 21°C). This gives an average of 1.9 tons per hectare. Sow early in winter and add phosphorus fertilizers to boost your crop."
+    }
+  },
+  "pomegranate": {
+    "crop_description": "Pomegranate is a fruit crop grown in warm, dry regions like Western and Southern India. It needs well-drained soil and can handle low rainfall.",
+    "common_practices_introduction": "These are the most common practices for growing pomegranates in India:",
+    "farming_practices": [
+      {
+        "Cluster": 0,
+        "Explanation": "In Western India, like Maharashtra, pomegranates grow on loam soil with 500 mm rain and warm weather (30°C). Farmers use fertilizers and irrigation, harvesting in about 180 days. The average yield is 6.5 tons per hectare, ranging from 2.0 to 12.0 tons, perfect for sunny conditions."
+      },
+      {
+        "Cluster": 1,
+        "Explanation": "In Southern India, like Karnataka, pomegranates grow on sandy soil with less rain (450 mm) and hotter weather (31.5°C). Farmers use irrigation but no fertilizers, harvesting in about 185 days. The average yield is 5.8 tons per hectare, ranging from 1.5 to 10.5 tons, suited for dry areas."
+      }
+    ],
+    "best_practice_recommendation": {
+      "Cluster": 0,
+      "Advice": "For the best pomegranate harvest, grow in Western India on loam soil with irrigation and fertilizers (500 mm rain, 30°C). This gives an average of 6.5 tons per hectare. Use drip irrigation and balanced fertilizers to grow healthy, juicy fruits."
+    }
+  },
+  "banana": {
+    "crop_description": "Banana is a tropical fruit crop grown in warm, wet regions like Southern and Western India. It needs lots of water and rich soil for big, sweet bunches.",
+    "common_practices_introduction": "These are the most common practices for growing bananas in India:",
+    "farming_practices": [
+      {
+        "Cluster": 0,
+        "Explanation": "In Southern India, like Tamil Nadu, bananas grow on loam soil with heavy rain (1700 mm) and warm weather (27°C). Farmers use fertilizers and irrigation, harvesting in about 300 days. The average yield is 45 tons per hectare, ranging from 20 to 70 tons, great for humid conditions."
+      },
+      {
+        "Cluster": 1,
+        "Explanation": "In Western India, like Maharashtra, bananas grow on clay soil with less rain (1500 mm) and warmer weather (28.5°C). Farmers use fertilizers and irrigation, harvesting in about 310 days. The average yield is 40 tons per hectare, ranging from 15 to 65 tons, suited for rainy seasons."
+      },
+      {
+        "Cluster": 2,
+        "Explanation": "In Eastern India, like Bihar, bananas grow on silty soil with less rain (1400 mm) and warmer weather (29°C). No fertilizers or irrigation are used, with harvest in about 320 days. The average yield is 35 tons per hectare, ranging from 10 to 60 tons, good for humid areas."
+      }
+    ],
+    "best_practice_recommendation": {
+      "Cluster": 0,
+      "Advice": "For the best banana harvest, grow in Southern India on loam soil with plenty of water (1700 mm rain) and fertilizers (27°C). This gives an average of 45 tons per hectare. Use drip irrigation and potassium-rich fertilizers to grow heavy, sweet bunches."
+    }
+  },
+  "mango": {
+    "crop_description": "Mango is a favorite fruit crop grown in warm regions like Southern and Western India. It needs well-drained soil and moderate rain for tasty, juicy fruits.",
+    "common_practices_introduction": "These are the most common practices for growing mangoes in India:",
+    "farming_practices": [
+      {
+        "Cluster": 0,
+        "Explanation": "In Southern India, like Andhra Pradesh, mangoes grow on loam soil with 800 mm rain and warm weather (29°C). Farmers use fertilizers and irrigation, harvesting in about 240 days. The average yield is 8 tons per hectare, ranging from 3 to 15 tons, ideal for sunny conditions."
+      },
+      {
+        "Cluster": 1,
+        "Explanation": "In Western India, like Gujarat, mangoes grow on sandy soil with less rain (700 mm) and hotter weather (30.5°C). Farmers use fertilizers and irrigation, harvesting in about 250 days. The average yield is 7.2 tons per hectare, ranging from 2.5 to 13.5 tons, suited for dry areas."
+      },
+      {
+        "Cluster": 2,
+        "Explanation": "In Eastern India, like Odisha, mangoes grow on clay soil with less rain (650 mm) and hotter weather (31°C). No fertilizers or irrigation are used, with harvest in about 260 days. The average yield is 6.5 tons per hectare, ranging from 2 to 12 tons, good for humid areas."
+      }
+    ],
+    "best_practice_recommendation": {
+      "Cluster": 0,
+      "Advice": "For the best mango harvest, grow in Southern India on loam soil with irrigation and fertilizers (800 mm rain, 29°C). This gives an average of 8 tons per hectare. Use drip irrigation and prune trees to get sweet, high-quality fruits."
+    }
+  },
+  "grapes": {
+    "crop_description": "Grapes are a fruit crop grown in warm, dry regions like Western and Southern India. They need well-drained soil and moderate water for sweet, juicy bunches.",
+    "common_practices_introduction": "These are the most common practices for growing grapes in India:",
+    "farming_practices": [
+      {
+        "Cluster": 0,
+        "Explanation": "In Western India, like Maharashtra, grapes grow on loam soil with 500 mm rain and warm weather (25°C). Farmers use fertilizers and irrigation, harvesting in about 150 days. The average yield is 10 tons per hectare, ranging from 4 to 18 tons, perfect for sunny conditions."
+      },
+      {
+        "Cluster": 1,
+        "Explanation": "In Southern India, like Karnataka, grapes grow on sandy soil with less rain (450 mm) and warmer weather (26.5°C). Farmers use irrigation but no fertilizers, harvesting in about 155 days. The average yield is 9 tons per hectare, ranging from 3.5 to 16 tons, suited for dry areas."
+      }
+    ],
+    "best_practice_recommendation": {
+      "Cluster": 0,
+      "Advice": "For the best grape harvest, grow in Western India on loam soil with irrigation and fertilizers (500 mm rain, 25°C). This gives an average of 10 tons per hectare. Use drip irrigation and prune vines regularly to grow sweet, high-quality grapes."
+    }
+  },
+  "watermelon": {
+    "crop_description": "Watermelon is a juicy fruit crop grown in warm, sunny regions like Northern and Central India. It loves sandy soil and needs moderate water for big, sweet fruits.",
+    "common_practices_introduction": "These are the most common practices for growing watermelons in India:",
+    "farming_practices": [
+      {
+        "Cluster": 0,
+        "Explanation": "In Northern India, like Uttar Pradesh, watermelons grow on sandy soil with 600 mm rain and hot weather (30°C). Farmers use fertilizers and irrigation, harvesting in about 90 days. The average yield is 25 tons per hectare, ranging from 10 to 40 tons, great for sunny conditions."
+      },
+      {
+        "Cluster": 1,
+        "Explanation": "In Central India, like Madhya Pradesh, watermelons grow on loam soil with less rain (550 mm) and hotter weather (31.5°C). Farmers use irrigation but no fertilizers, harvesting in about 95 days. The average yield is 22 tons per hectare, ranging from 8 to 35 tons, suited for dry areas."
+      }
+    ],
+    "best_practice_recommendation": {
+      "Cluster": 0,
+      "Advice": "For the best watermelon harvest, grow in Northern India on sandy soil with irrigation and fertilizers (600 mm rain, 30°C). This gives an average of 25 tons per hectare. Use drip irrigation and plant in sunny weather to get large, sweet watermelons."
+    }
+  },
+  "muskmelon": {
+    "crop_description": "Muskmelon is a sweet fruit crop grown in warm, sunny regions like Northern and Western India. It needs well-drained soil and moderate water for juicy fruits.",
+    "common_practices_introduction": "These are the most common practices for growing muskmelons in India:",
+    "farming_practices": [
+      {
+        "Cluster": 0,
+        "Explanation": "In Northern India, like Punjab, muskmelons grow on sandy soil with 550 mm rain and warm weather (29°C). Farmers use fertilizers and irrigation, harvesting in about 85 days. The average yield is 20 tons per hectare, ranging from 8 to 35 tons, ideal for sunny conditions."
+      },
+      {
+        "Cluster": 1,
+        "Explanation": "In Western India, like Rajasthan, muskmelons grow on loam soil with less rain (500 mm) and hotter weather (30.5°C). Farmers use irrigation but no fertilizers, harvesting in about 90 days. The average yield is 18 tons per hectare, ranging from 7 to 30 tons, suited for dry areas."
+      }
+    ],
+    "best_practice_recommendation": {
+      "Cluster": 0,
+      "Advice": "For the best muskmelon harvest, grow in Northern India on sandy soil with irrigation and fertilizers (550 mm rain, 29°C). This gives an average of 20 tons per hectare. Use drip irrigation and plant in sunny weather to grow sweet, juicy muskmelons."
+    }
+  },
+  "apple": {
+    "crop_description": "Apples are a fruit crop grown in cool, hilly regions like Northern India. They need well-drained soil and cooler weather for crisp, tasty fruits.",
+    "common_practices_introduction": "These are the most common practices for growing apples in India:",
+    "farming_practices": [
+      {
+        "Cluster": 0,
+        "Explanation": "In Northern India, like Himachal Pradesh, apples grow on loam soil with 800 mm rain and cool weather (15°C). Farmers use fertilizers and irrigation, harvesting in about 200 days. The average yield is 12 tons per hectare, ranging from 5 to 20 tons, great for cloudy conditions."
+      },
+      {
+        "Cluster": 1,
+        "Explanation": "Also in Northern India, like Jammu & Kashmir, apples grow on silty soil with less rain (700 mm) and slightly warmer weather (16.5°C). Farmers use irrigation but no fertilizers, harvesting in about 210 days. The average yield is 10.5 tons per hectare, ranging from 4 to 18 tons, suited for cloudy areas."
+      }
+    ],
+    "best_practice_recommendation": {
+      "Cluster": 0,
+      "Advice": "For the best apple harvest, grow in Northern India on loam soil with irrigation and fertilizers (800 mm rain, 15°C). This gives an average of 12 tons per hectare. Use drip irrigation and prune trees to grow healthy, high-quality apples."
+    }
+  },
+  "orange": {
+    "crop_description": "Oranges are a citrus fruit crop grown in warm regions like Southern and Central India. They need well-drained soil and moderate rain for juicy fruits.",
+    "common_practices_introduction": "These are the most common practices for growing oranges in India:",
+    "farming_practices": [
+      {
+        "Cluster": 0,
+        "Explanation": "In Southern India, like Andhra Pradesh, oranges grow on loam soil with 900 mm rain and warm weather (25°C). Farmers use fertilizers and irrigation, harvesting in about 240 days. The average yield is 15 tons per hectare, ranging from 6 to 25 tons, ideal for sunny conditions."
+      },
+      {
+        "Cluster": 1,
+        "Explanation": "In Central India, like Maharashtra, oranges grow on sandy soil with less rain (800 mm) and warmer weather (26.5°C). Farmers use irrigation but no fertilizers, harvesting in about 250 days. The average yield is 13.5 tons per hectare, ranging from 5 to 22 tons, suited for dry areas."
+      }
+    ],
+    "best_practice_recommendation": {
+      "Cluster": 0,
+      "Advice": "For the best orange harvest, grow in Southern India on loam soil with irrigation and fertilizers (900 mm rain, 25°C). This gives an average of 15 tons per hectare. Use drip irrigation and balanced fertilizers to grow juicy, high-quality oranges."
+    }
+  },
+  "papaya": {
+    "crop_description": "Papaya is a tropical fruit crop grown in warm, wet regions like Southern and Eastern India. It needs lots of water and rich soil for large, sweet fruits.",
+    "common_practices_introduction": "These are the most common practices for growing papayas in India:",
+    "farming_practices": [
+      {
+        "Cluster": 0,
+        "Explanation": "In Southern India, like Tamil Nadu, papayas grow on loam soil with heavy rain (1500 mm) and warm weather (28°C). Farmers use fertilizers and irrigation, harvesting in about 270 days. The average yield is 50 tons per hectare, ranging from 20 to 80 tons, great for humid conditions."
+      },
+      {
+        "Cluster": 1,
+        "Explanation": "In Eastern India, like Odisha, papayas grow on clay soil with less rain (1400 mm) and warmer weather (29.5°C). Farmers use irrigation but no fertilizers, harvesting in about 280 days. The average yield is 45 tons per hectare, ranging from 15 to 75 tons, suited for rainy seasons."
+      }
+    ],
+    "best_practice_recommendation": {
+      "Cluster": 0,
+      "Advice": "For the best papaya harvest, grow in Southern India on loam soil with irrigation and fertilizers (1500 mm rain, 28°C). This gives an average of 50 tons per hectare. Use drip irrigation and plant healthy seedlings to grow large, sweet papayas."
+    }
+  },
+  "coconut": {
+    "crop_description": "Coconut is a tropical crop grown in coastal regions like Southern and Eastern India. It needs heavy rain and warm, humid weather for lots of nuts.",
+    "common_practices_introduction": "These are the most common practices for growing coconuts in India:",
+    "farming_practices": [
+      {
+        "Cluster": 0,
+        "Explanation": "In Southern India, like Kerala, coconuts grow on sandy soil with heavy rain (2000 mm) and warm weather (27°C). Farmers use fertilizers and irrigation, harvesting in about 365 days. The average yield is 80 tons per hectare, ranging from 30 to 120 tons, ideal for humid conditions."
+      },
+      {
+        "Cluster": 1,
+        "Explanation": "Also in Southern India, like Tamil Nadu, coconuts grow on loam soil with less rain (1800 mm) and warmer weather (28.5°C). Farmers use fertilizers and irrigation, harvesting in about 365 days. The average yield is 70 tons per hectare, ranging from 25 to 110 tons, suited for rainy seasons."
+      },
+      {
+        "Cluster": 2,
+        "Explanation": "In Eastern India, like Odisha, coconuts grow on clay soil with less rain (1600 mm) and warmer weather (29°C). No fertilizers or irrigation are used, with harvest in about 365 days. The average yield is 60 tons per hectare, ranging from 20 to 100 tons, good for humid areas."
+      }
+    ],
+    "best_practice_recommendation": {
+      "Cluster": 0,
+      "Advice": "For the best coconut harvest, grow in Southern India on sandy soil with irrigation and fertilizers (2000 mm rain, 27°C). This gives an average of 80 tons per hectare. Use drip irrigation and apply balanced fertilizers to grow healthy, high-yielding coconut trees."
+    }
+  },
+  "cotton": {
+    "crop_description": "Cotton is a fiber crop grown in warm, dry regions like Western and Southern India. It needs well-drained soil and moderate rain for good boll production.",
+    "common_practices_introduction": "These are the most common practices for growing cotton in India:",
+    "farming_practices": [
+      {
+        "Cluster": 0,
+        "Explanation": "In Western India, like Gujarat, cotton grows on clay soil with 600 mm rain and warm weather (30°C). Farmers use fertilizers and irrigation, harvesting in about 180 days. The average yield is 2.5 tons per hectare, ranging from 0.8 to 4.5 tons, ideal for sunny conditions."
+      },
+      {
+        "Cluster": 1,
+        "Explanation": "In Southern India, like Andhra Pradesh, cotton grows on loam soil with less rain (550 mm) and hotter weather (31.5°C). Farmers use fertilizers and irrigation, harvesting in about 185 days. The average yield is 2.2 tons per hectare, ranging from 0.6 to 4.0 tons, suited for dry areas."
+      },
+      {
+        "Cluster": 2,
+        "Explanation": "In Central India, like Maharashtra, cotton grows on sandy soil with less rain (500 mm) and hotter weather (32°C). No fertilizers or irrigation are used, with harvest in about 190 days. The average yield is 1.9 tons per hectare, ranging from 0.5 to 3.5 tons, good for dry conditions."
+      }
+    ],
+    "best_practice_recommendation": {
+      "Cluster": 0,
+      "Advice": "For the best cotton harvest, grow in Western India on clay soil with irrigation and fertilizers (600 mm rain, 30°C). This gives an average of 2.5 tons per hectare. Use drip irrigation and nitrogen fertilizers to produce more bolls and a better crop."
+    }
+  },
+  "jute": {
+    "crop_description": "Jute is a fiber crop grown in wet, humid regions like Eastern India. It needs heavy rain and warm weather to produce strong fibers.",
+    "common_practices_introduction": "These are the most common practices for growing jute in India:",
+    "farming_practices": [
+      {
+        "Cluster": 0,
+        "Explanation": "In Eastern India, like West Bengal, jute grows on silty soil with heavy rain (1500 mm) and warm weather (28°C). Farmers use fertilizers and irrigation, harvesting in about 120 days. The average yield is 2.8 tons per hectare, ranging from 1.0 to 4.5 tons, perfect for rainy conditions."
+      },
+      {
+        "Cluster": 1,
+        "Explanation": "Also in Eastern India, like Assam, jute grows on clay soil with less rain (1400 mm) and warmer weather (29.5°C). No fertilizers or irrigation are used, with harvest in about 125 days. The average yield is 2.5 tons per hectare, ranging from 0.8 to 4.0 tons, suited for humid areas."
+      }
+    ],
+    "best_practice_recommendation": {
+      "Cluster": 0,
+      "Advice": "For the best jute harvest, grow in Eastern India on silty soil with irrigation and fertilizers (1500 mm rain, 28°C). This gives an average of 2.8 tons per hectare. Use high-yielding varieties and water early in growth to produce strong, high-quality fibers."
+    }
+  },
+  "coffee": {
+    "crop_description": "Coffee is a plantation crop grown in hilly, humid regions like Southern India. It needs heavy rain and cooler weather for high-quality beans.",
+    "common_practices_introduction": "These are the most common practices for growing coffee in India:",
+    "farming_practices": [
+      {
+        "Cluster": 0,
+        "Explanation": "In Southern India, like Karnataka, coffee grows on loam soil with heavy rain (1800 mm) and cool weather (22°C). Farmers use fertilizers and irrigation, harvesting in about 365 days. The average yield is 1.2 tons per hectare, ranging from 0.5 to 2.0 tons, ideal for humid conditions."
+      },
+      {
+        "Cluster": 1,
+        "Explanation": "Also in Southern India, like Kerala, coffee grows on clay soil with less rain (1600 mm) and slightly warmer weather (23.5°C). No fertilizers or irrigation are used, with harvest in about 365 days. The average yield is 1.0 ton per hectare, ranging from 0.4 to 1.8 tons, suited for rainy seasons."
+      }
+    ],
+    "best_practice_recommendation": {
+      "Cluster": 0,
+      "Advice": "For the best coffee harvest, grow in Southern India on loam soil with irrigation and fertilizers (1800 mm rain, 22°C). This gives an average of 1.2 tons per hectare. Use shade trees and balanced fertilizers to grow high-quality coffee beans."
+    }
+  }
+}
