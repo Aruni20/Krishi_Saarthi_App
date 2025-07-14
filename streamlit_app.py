@@ -5,7 +5,7 @@ from gtts import gTTS
 import tempfile
 import altair as alt
 import json
-from deep_translator import GoogleTranslator  # ✅ Replaced googletrans
+from deep_translator import GoogleTranslator  
 
 # -------------------------------
 # Define Language Options
