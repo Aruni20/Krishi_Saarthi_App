@@ -5,7 +5,7 @@ from gtts import gTTS
 import tempfile
 import altair as alt
 import json
-from googletrans import Translator
+from deep_translator import GoogleTranslator  # ✅ Replaced googletrans
 
 # -------------------------------
 # Define Language Options
@@ -42,13 +42,12 @@ def generate_audio(text, lang='en'):
         return audio_bytes
 
 # -------------------------------
-# Google Translate
+# Translation using deep-translator
 # -------------------------------
-translator = Translator()
 def translate_text(text, dest_lang):
     try:
-        translated = translator.translate(text, dest=dest_lang)
-        return translated.text
+        translated = GoogleTranslator(source='auto', target=dest_lang).translate(text)
+        return translated
     except Exception as e:
         return f"[Translation Error] {text}"
 
